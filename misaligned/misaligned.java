@@ -1,3 +1,4 @@
+
 public class Misaligned {
     static int printColorMap() {
         String majorColors[] = {"White", "Red", "Black", "Yellow", "Violet"};
@@ -12,7 +13,7 @@ public class Misaligned {
     }
     public static void main(String[] args) { 
         int result = printColorMap();
-        assert(result == 25);
+        assert(result == 36);
         System.out.println("All is well (maybe!)");
     }
 }
