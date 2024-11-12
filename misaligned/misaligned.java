@@ -1,3 +1,4 @@
+
 public class Misaligned {
     static int printColorMap() {
         String majorColors[] = {"White", "Red", "Black", "Yellow", "Violet"};
